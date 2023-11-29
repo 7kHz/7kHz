@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi!
+My name is Maxim Uteshev!
+I'm a python developer.
+Examples of my work:
+7kHz/REST_API_DIPOLM
