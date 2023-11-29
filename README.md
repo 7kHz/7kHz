@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 My name is Maxim Uteshev!
 I'm a python developer.
 Examples of my work:
-7kHz/REST_API_DIPOLM
+[Дипломная работа (API Сервис розничной сети)](/7kHz/REST_API_DIPlOM)
